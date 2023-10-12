@@ -1,0 +1,13 @@
+.light{
+    background-color: lightgray;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.blue{
+    background-color: skyblue;
+    color: brown;
+}
